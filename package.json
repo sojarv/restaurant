@@ -1,0 +1,27 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "My restaurant from OdinProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sojarv/restaurant.git"
+  },
+  "author": "Valentin Sojar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sojarv/restaurant/issues"
+  },
+  "homepage": "https://github.com/sojarv/restaurant#readme",
+  "devDependencies": {
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "tabsy": "^0.1.0",
+    "tabsy-css": "^1.0.0"
+  }
+}
